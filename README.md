@@ -1,7 +1,6 @@
 # Semana-Piramide-De-Testes-UI
 
-Na semana da pirâmide de testes construimos um formulário simples com HTML e CSS, e fizemos automação utilizando Java + Cucumber + Selenium com o padrão page objetcs.
-
+Durante a Semana da Pirâmide de Testes, desenvolvemos um formulário simples utilizando HTML e CSS. Em seguida, aplicamos automação de testes com Java, Cucumber e Selenium, seguindo o padrão de projeto Page Object Model (POM) para garantir maior organização e reutilização do código.
 
 ## Contatos
 
